@@ -46,7 +46,7 @@ int money = 50_000;
             }
             System.out.println();
 
-            space--;
+            space-- ;
         }
 
     }
